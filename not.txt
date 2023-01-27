@@ -1,0 +1,5 @@
+dotnet new tool-manifest
+
+dotnet tool install --local dotnet-ef --version 7.0.2
+
+HttpGet method sends data using a query string
